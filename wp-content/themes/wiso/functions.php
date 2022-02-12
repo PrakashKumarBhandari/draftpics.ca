@@ -160,3 +160,4 @@ function wiso_replace_scripts( $scripts ) {
 }
 
 add_action( 'wp_default_scripts', 'wiso_replace_scripts' );
+

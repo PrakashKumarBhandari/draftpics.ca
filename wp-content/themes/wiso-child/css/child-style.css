@@ -1,0 +1,89 @@
+div.wpb_text_column:nth-child(3) {
+    font-size: 100px;
+    }
+    #footer{
+        bottom: unset;
+    }
+    
+    .product:hover a.xoo-qv-button{
+            transform: translate(-108%,-50%)!important;
+    }
+    .wiso-add-to-cart {
+        width: 100%;
+        line-height: 115px;
+        height: 63px!important;
+    }
+    .woocommerce ul.products li.product .wiso-prod-list-image .wiso-add-to-cart a{
+        padding: 10px 12px!important;
+    }
+    .woocommerce ul.products li.product .wiso-prod-list-image .wiso-link{
+        display:none!important;
+    }
+    .product-links-wrapp .wiso-link{
+        display:none!important;
+    }
+    .woocommerce ul.products li.product .wiso-prod-list-image .wiso-add-to-cart .xoo-qv-button{
+            padding: 7px 12px !important;
+    }
+    
+    .woocommerce ul.products li.product .wiso-prod-list-image .product-links-wrapp{
+        left: 40%!important;
+    }
+    .wiso-shop-main-banner {
+       display: none !important;
+    }
+    .npf{display: none !important;
+    }
+    .wooup-offer-wrapper.wooup-products-1{
+        min-width:33%!important;
+    }
+    .wooup-auto-cursor .wooup-content{
+        font-size:18px;
+    }
+    @media only screen and (max-width: 600px) {
+    
+    .wooup-offer-wrapper.wooup-products-1{
+        min-width:75%!important;
+    }
+    }
+
+
+
+
+    /** Style for add to cart custom  form */
+
+
+.wdm-custom-fields table{
+    border: 0;
+}
+.wdm-custom-fields tbody td{
+    border: 0;
+}
+.wdm-custom-fields table td {
+    border: 0!important;
+}
+
+.wdm-custom-fields input{
+    border:1px solid #eee;
+    color: #999;
+}
+.woocommerce form .form-row input
+{ 
+    color: #999!important;
+}
+.wdm-custom-fields label{
+    color: #999!important;
+    font-weight: normal;
+}
+.wdm-custom-fields .col-md-6{ 
+    padding-left: 0px!important;
+}
+.wdm-custom-fields  .form-group{
+    margin-bottom: 0px!important;
+}
+.wdm-custom-fields .form-row{
+    margin: 0px!important;
+}
+.wdm-custom-fields .valid_error{
+    border:1px solid #f00!important;
+}
